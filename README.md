@@ -44,7 +44,7 @@
 
   <div align="center">
     
-    [![GitHub Streak](https://streak-stats.demolab.com?user=FrederiyPatria&theme=dark-smoky&hide_border=true&border_radius=5&locale=id&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
+    [![GitHub Streak]([![GitHub Streak](https://streak-stats.demolab.com?user=FrederiyPatria&theme=dark-smoky&hide)](https://git.io/streak-stats)
     
   </div>
 
