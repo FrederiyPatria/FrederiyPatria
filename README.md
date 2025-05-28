@@ -44,7 +44,7 @@
 
   <div align="center">
     
-    [![GitHub Streak]([![GitHub Streak](https://streak-stats.demolab.com?user=FrederiyPatria&theme=dark-smoky&hide)](https://git.io/streak-stats)
+    [![GitHub Streak](https://streak-stats.demolab.com?user=Synthever&theme=dark)](https://git.io/streak-stats)
     
   </div>
 
