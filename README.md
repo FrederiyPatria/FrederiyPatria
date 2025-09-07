@@ -31,3 +31,5 @@ I am a Computer Engineering student with a background in Hospitality.<br>I am cu
 
 ---
 [![](https://visitcount.itsvg.in/api?id=FrederiyPatria&icon=0&color=0)](https://visitcount.itsvg.in)
+
+ ![snake gif](https://github.com/FrederiyPatria/FrederiyPatria/blob/output/github-contribution-grid-snake-dark.svg)
