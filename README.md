@@ -13,7 +13,7 @@ I am a Computer Engineering student with a background in Hospitality.<br>I am cu
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/15b8okDkMf/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_smileytherow) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmadzidantamimy@gmail.com) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,c,java,php,py,laravel,mysql,tailwind,bootstrap,figma,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,java,php,py,laravel,mysql,tailwind,bootstrap,figma,git,github)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=FrederiyPatria&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
